@@ -1,7 +1,7 @@
 const express = require("express");
 const dotenv = require("dotenv");
 // database connection
-const DbConnection = require("./databaseConnection");
+const DbConnection = require("./databaseConntection");
 // importing routes
 const usersRouter = require("./routes/users");
 const booksRouter = require("./routes/books");

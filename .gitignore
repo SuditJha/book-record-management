@@ -1,6 +1,3 @@
-controllers
-dtos
-models
 .env
 node_modules
 package-lock.json

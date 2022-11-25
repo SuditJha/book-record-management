@@ -16,5 +16,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuditJha/book-record-management.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SuditJha/book-record-management/issues"
+  },
+  "homepage": "https://github.com/SuditJha/book-record-management#readme"
 }
