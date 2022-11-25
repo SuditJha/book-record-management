@@ -4,7 +4,7 @@ This is a book record management API Backend for the management of records and b
 
 # API Documentation link
 
-https://documenter.getpostman.com/view/11423344/VUqyoZdU
+https://documenter.getpostman.com/view/24619235/2s8YsryZQr
 
 # Routes and Endpoints
 
