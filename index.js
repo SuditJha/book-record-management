@@ -12,7 +12,7 @@ const app = express();
 
 DbConnection();
 
-const PORT = 2000;
+const PORT = 6000;
 
 app.use(express.json());
 
